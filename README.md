@@ -36,7 +36,7 @@ wget https://github.com/radxa/rockpi-penta/releases/download/v0.2.2/rockpi-penta
 sudo apt install -y ./rockpi-penta-0.2.2.deb
 
 # Then apply this fix
-git clone https://github.com/YOUR_USERNAME/rockpi-penta-pi5-fix.git
+git clone https://github.com/HabiRabbu/rockpi-penta-pi5-fix.git
 cd rockpi-penta-pi5-fix
 sudo bash install.sh
 ```
